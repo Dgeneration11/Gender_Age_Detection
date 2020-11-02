@@ -41,4 +41,4 @@ Then, we put up rectangles on the image for each such list of coordinates and re
 **12.** We’ll add the gender and age texts to the resulting image and display it with imshow().
 
 ## Example for this project:
-
+![](Images_in_readme/Screenshot_1.png)
